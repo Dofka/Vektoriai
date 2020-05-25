@@ -14,7 +14,7 @@ Capacity funcija, kad galėčiau sulyginti size ir capacity, kad patikrinčiau a
 |10000000|0.206s. |0.18s |
 |100000000|1.939s. | 1.705s. |
 ## 3 Užduotis
-Čia skaičuojame kiek kartų įvyksta konteinerių atminties persiskirstymai
+Čia skaičuojame kiek kartų įvyksta konteinerių atminties persiskirstymai - 27
 ![](3uzd.png)
 
 ## 4 Užduotis 
